@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import "bootstrap/dist/css/bootstrap.css";
+//import "bootstrap/dist/css/bootstrap.css";
+import "bootswatch/dist/journal/bootstrap.css";
 import { Table } from "react-bootstrap";
 import AlertDismissable from "./AlertDismissable";
 
